@@ -7,7 +7,7 @@ public class hola {
 
 		
 		
-		System.out.println("Hola Joan!!!!");
+		System.out.println("Hola Mundo!!!!");
 	}
 
 }
